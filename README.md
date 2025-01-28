@@ -16,7 +16,7 @@ To set up the environment for this notebook, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ElbetelTaye/Credit-Scoring-Model-.git
+   git clone https://github.com/ibso99/Credit-Scoring.git
    ```
 
 2. **Install Required Libraries:**
